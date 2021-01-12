@@ -1,0 +1,4 @@
+App.class
+com\mongo\crud\repository\RelRepo.class
+com\mongo\crud\model\Relationship.class
+com\mongo\crud\controller\CrudController.class
